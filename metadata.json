@@ -1,0 +1,6 @@
+{
+  "name": "Electro Tecno",
+  "description": "Tienda de tecnología, celulares nuevos y usados, servicio técnico especializado y accesorios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
